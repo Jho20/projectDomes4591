@@ -1,0 +1,32 @@
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    22.772     7.014     4.372     0.011
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    23.321      7.02      3.26     0.008
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+     8.723     7.088         0     0.003
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    16.487     8.288     8.832     0.003
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    91.978    28.356    17.667     0.025
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    94.417    28.351    13.138      0.02
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    35.072     28.31     0.001     0.006
+EXECUTION TIMES(seconds)
+BubbleSortSelectSortInsertSort QuickSort
+============================== =========
+    66.052    33.148    35.203     0.004
